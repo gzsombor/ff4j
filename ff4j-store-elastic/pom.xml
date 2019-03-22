@@ -25,7 +25,7 @@
 		<elasticsearch.version>1.7.5</elasticsearch.version>
 		<!-- Note : Jest version >= 2.0 is required for ElasticSearch >= 2.0 too. -->
 		<jest.version>2.0.3</jest.version>
-		<httpclient.version>4.5.2</httpclient.version>
+		<httpclient.version>4.5.7</httpclient.version>
 		<gson.version>2.3.1</gson.version>
 	</properties>
 
